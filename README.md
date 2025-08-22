@@ -1,4 +1,4 @@
-#  🖼️ Random Image Generator App
+#  🖼️ Image Generator App
 
 ## Overview
 Image Generator is an Android app that displays a random image fetched from the web every time you tap the "Generate" button.
